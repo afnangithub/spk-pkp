@@ -17,9 +17,9 @@
                     <td>{{ $data[1] }}</td>
                     <td>
                         <table>
-                            /*
+                             <!--
                             Variabel dicari di sini adalah data konsentrasi
-                            */
+                                -->
                             @foreach ($dicaris as $dicari)
                                 <tr>
                                     <td>{{ $dicari->kriteria }}</td>
