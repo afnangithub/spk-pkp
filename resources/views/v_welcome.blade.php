@@ -24,7 +24,7 @@
                     nilai matakuliah terkait seusai dengan yang didapatkan mahasiswa.
                 </h5>
                 <h2>Manfaat SPK Ini</h2>
-                <h5>1. Dengan adanya sistem pendukung keputusan ini dapat menjadi standar rancangan untuk pemilihan dan
+                <h5>1. Dengan adanya sistem pendukung keputusan ini dapat menjadi rancangan untuk pemilihan dan
                     rekomendasi peminatan konsentrasi di program studi teknik informatika Universitas Nurtanio Bandung
                     <br>
                     2. Dengan adanya sistem pendukung keputusan ini, ketua program studi dapat memberikan rekomendasi dalam
