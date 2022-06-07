@@ -8,7 +8,7 @@
                 <img src="{{ asset('logo') }}/logo.jpg" alt="User Image" width="100px">
             </div>
             <div class="col-sm-12">
-                <h1>SISTEM PENDUKUNG KEPUTUSAN X X</h1>
+                <h1>SISTEM PENDUKUNG KEPUTUSAN</h1>
                 <h4>PEMILIHAN KONSENTRASI PEMINATAN MENGGUNAKAN METODE NAÏVE BAYES</h4>
             </div>
         </div>
