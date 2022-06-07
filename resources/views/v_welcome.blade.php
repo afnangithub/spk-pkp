@@ -9,7 +9,8 @@
             </div>
             <div class="col-sm-12">
                 <h1>SISTEM PENDUKUNG KEPUTUSAN</h1>
-                <h4>PEMILIHAN KONSENTRASI PEMINATAN MENGGUNAKAN METODE NAÏVE BAYES</h4>
+                <h4>PEMILIHAN KONSENTRASI PEMINATAN</h4>
+                <h5>MENGGUNAKAN METODE NAÏVE BAYES</h5>
             </div>
         </div>
         <div class="row p-3 mb-2 bg-warning text-dark">
