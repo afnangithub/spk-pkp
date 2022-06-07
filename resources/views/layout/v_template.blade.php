@@ -69,7 +69,7 @@
                         <img src="{{ asset('logo') }}/logo.jpg" alt="User Image">
                     </div>
                     <div class="pull-left info">
-                        <p>SPK-PK</p>
+                        <p>SPK-PKP</p>
                     </div>
                 </div>
                 <!-- sidebar menu: : style can be found in sidebar.less -->
